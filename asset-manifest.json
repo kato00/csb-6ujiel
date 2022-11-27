@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://kato00.github.io/csb-6ujiel/static/css/main.63d67554.chunk.css",
-    "main.js": "https://kato00.github.io/csb-6ujiel/static/js/main.e08d8626.chunk.js",
-    "main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/main.e08d8626.chunk.js.map",
+    "main.js": "https://kato00.github.io/csb-6ujiel/static/js/main.c14ec0d9.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/main.c14ec0d9.chunk.js.map",
     "runtime-main.js": "https://kato00.github.io/csb-6ujiel/static/js/runtime-main.6a49e816.js",
     "runtime-main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/runtime-main.6a49e816.js.map",
-    "static/js/2.6548281f.chunk.js": "https://kato00.github.io/csb-6ujiel/static/js/2.6548281f.chunk.js",
-    "static/js/2.6548281f.chunk.js.map": "https://kato00.github.io/csb-6ujiel/static/js/2.6548281f.chunk.js.map",
+    "static/js/2.c731c581.chunk.js": "https://kato00.github.io/csb-6ujiel/static/js/2.c731c581.chunk.js",
+    "static/js/2.c731c581.chunk.js.map": "https://kato00.github.io/csb-6ujiel/static/js/2.c731c581.chunk.js.map",
     "index.html": "https://kato00.github.io/csb-6ujiel/index.html",
     "static/css/main.63d67554.chunk.css.map": "https://kato00.github.io/csb-6ujiel/static/css/main.63d67554.chunk.css.map",
-    "static/js/2.6548281f.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-6ujiel/static/js/2.6548281f.chunk.js.LICENSE.txt"
+    "static/js/2.c731c581.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-6ujiel/static/js/2.c731c581.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6a49e816.js",
-    "static/js/2.6548281f.chunk.js",
+    "static/js/2.c731c581.chunk.js",
     "static/css/main.63d67554.chunk.css",
-    "static/js/main.e08d8626.chunk.js"
+    "static/js/main.c14ec0d9.chunk.js"
   ]
 }
