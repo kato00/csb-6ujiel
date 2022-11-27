@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kato00.github.io/csb-6ujiel/static/css/main.9e2e7e73.chunk.css",
-    "main.js": "https://kato00.github.io/csb-6ujiel/static/js/main.90517fef.chunk.js",
-    "main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/main.90517fef.chunk.js.map",
+    "main.js": "https://kato00.github.io/csb-6ujiel/static/js/main.b52b4d71.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/main.b52b4d71.chunk.js.map",
     "runtime-main.js": "https://kato00.github.io/csb-6ujiel/static/js/runtime-main.6a49e816.js",
     "runtime-main.js.map": "https://kato00.github.io/csb-6ujiel/static/js/runtime-main.6a49e816.js.map",
     "static/js/2.7baa83c1.chunk.js": "https://kato00.github.io/csb-6ujiel/static/js/2.7baa83c1.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6a49e816.js",
     "static/js/2.7baa83c1.chunk.js",
     "static/css/main.9e2e7e73.chunk.css",
-    "static/js/main.90517fef.chunk.js"
+    "static/js/main.b52b4d71.chunk.js"
   ]
 }
